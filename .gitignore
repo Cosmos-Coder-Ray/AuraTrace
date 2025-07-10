@@ -1,0 +1,20 @@
+# Ignore Python virtual environment libraries
+/auratrace/Lib/
+
+# Ignore Python bytecode and cache
+__pycache__/
+**/__pycache__/
+
+# Ignore prompt.txt
+prompt.txt
+
+# Ignore pip wheel and build artifacts
+dist/
+build/
+*.egg-info/
+
+# Ignore editor and OS files
+.DS_Store
+*.swp
+*.swo
+

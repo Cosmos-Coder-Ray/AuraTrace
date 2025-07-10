@@ -1,0 +1,4 @@
+ai_model: gpt-3.5-turbo
+default_quality_rules: quality.yml
+enable_ai: true
+output_directory: ./auratrace_reports
