@@ -188,8 +188,7 @@ pytest
 
 ### Ways to Contribute
 
-- 🐛 **Report bugs** - Use [GitHub Issues](https://github.com/auratrace/auratrace/issues)
-- 💡 **Suggest features** - Start a [Discussion](https://github.com/auratrace/auratrace/discussions)
+- 🐛 **Report bugs** - Use [GitHub Issues](https://github.com/Cosmos-Coder-Ray/AuraTrace/issues))
 - 📝 **Improve docs** - Submit PRs to enhance documentation
 - 🔧 **Fix bugs** - Pick up issues labeled "good first issue"
 - 🚀 **Add features** - Implement new functionality
@@ -229,16 +228,12 @@ pytest
 ### Getting Help
 
 - 📚 **[Documentation](docs/)** - Comprehensive guides and examples
-- 💬 **[Discussions](https://github.com/auratrace/auratrace/discussions)** - Ask questions and share ideas
-- 🐛 **[Issues](https://github.com/auratrace/auratrace/issues)** - Report bugs and request features
-- 📧 **Email** - [support@auratrace.io](mailto:support@auratrace.io)
+- 🐛 **[Issues](https://github.com/Cosmos-Coder-Ray/AuraTrace/issues))** - Report bugs and request features
 
 ### Community
 
-- 🌐 **[Website](https://auratrace.io)** - Project homepage
-- 📖 **[Blog](https://auratrace.io/blog)** - Latest updates and tutorials
-- 🐦 **[Twitter](https://twitter.com/auratrace)** - Follow for updates
-- 💼 **[LinkedIn](https://linkedin.com/company/auratrace)** - Professional updates
+- 🌐 **[Website]()** - 
+- 📖 **[Reddit](https://www.reddit.com/r/AuraTools/)** 
 
 ## 📄 License
 
@@ -251,16 +246,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - **NetworkX** - For graph operations
 - **Rich** - For beautiful terminal output
 - **Typer** - For CLI framework
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=auratrace/auratrace&type=Date)](https://star-history.com/#auratrace/auratrace&Date)
-
----
-
-**Made with ❤️ by the AuraTrace team**
-
-*Empowering data scientists and engineers with transparent, AI-powered observability.* 
 
 ## 🤖 AI Assistant & LLM Providers (Optional)
 
