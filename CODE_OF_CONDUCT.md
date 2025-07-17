@@ -112,13 +112,6 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
-
-## Appealing
-
-Only permanent resolutions (such as a permanent ban) may be appealed. To appeal
-a decision of the team, contact the team at [wizard.enterprises.07](mailto:wizard.enterprises.07)
-with your appeal and the team will review the case.
-
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org),
